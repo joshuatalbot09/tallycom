@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tally.com",
+    "description": "",
+    "home_page_url": "https://joshuatalbot09.github.io/tallycom",
+    "feed_url": "https://joshuatalbot09.github.io/tallycom/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "joshua talbot"
+    },
+    "items": [
+    ]
+}
